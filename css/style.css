@@ -10,13 +10,50 @@
 }
 
 .triti{
-  width:70%;
-  height:70%;
+  width:60%;
+  height:55%;
+  margin-top: 40px;
 
 }
 
 .tetarti{
-  width: 70%;
-  height:70%
+  width: 55%;
+  height:55%;
+    margin-top: 40px;
 
+
+}
+
+.container{
+	background-color: #FFCCCB
+}
+
+
+
+
+img{
+	border:7px solid #FC4C4E;
+}
+
+.kentro{
+	text-align: center;
+}
+
+p{
+ background-color: #FC4C4E;
+
+}
+
+h1{
+	background-color: #FC4C4E;
+	width: 220px;
+}
+
+h2{
+	background-color: #FC4C4E;
+	width: 180px;
+}
+
+body.bg-color{
+	background-color: #FFCCCB;
 }
